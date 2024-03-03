@@ -1,0 +1,15 @@
+C:\Users\Owen\source\repos\SkillsW1Code\SkillsW1Code\bin\Debug\net6.0\SkillsW1Code.exe
+C:\Users\Owen\source\repos\SkillsW1Code\SkillsW1Code\bin\Debug\net6.0\SkillsW1Code.deps.json
+C:\Users\Owen\source\repos\SkillsW1Code\SkillsW1Code\bin\Debug\net6.0\SkillsW1Code.runtimeconfig.json
+C:\Users\Owen\source\repos\SkillsW1Code\SkillsW1Code\bin\Debug\net6.0\SkillsW1Code.dll
+C:\Users\Owen\source\repos\SkillsW1Code\SkillsW1Code\bin\Debug\net6.0\SkillsW1Code.pdb
+C:\Users\Owen\source\repos\SkillsW1Code\SkillsW1Code\obj\Debug\net6.0\SkillsW1Code.csproj.AssemblyReference.cache
+C:\Users\Owen\source\repos\SkillsW1Code\SkillsW1Code\obj\Debug\net6.0\SkillsW1Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owen\source\repos\SkillsW1Code\SkillsW1Code\obj\Debug\net6.0\SkillsW1Code.AssemblyInfoInputs.cache
+C:\Users\Owen\source\repos\SkillsW1Code\SkillsW1Code\obj\Debug\net6.0\SkillsW1Code.AssemblyInfo.cs
+C:\Users\Owen\source\repos\SkillsW1Code\SkillsW1Code\obj\Debug\net6.0\SkillsW1Code.csproj.CoreCompileInputs.cache
+C:\Users\Owen\source\repos\SkillsW1Code\SkillsW1Code\obj\Debug\net6.0\SkillsW1Code.dll
+C:\Users\Owen\source\repos\SkillsW1Code\SkillsW1Code\obj\Debug\net6.0\refint\SkillsW1Code.dll
+C:\Users\Owen\source\repos\SkillsW1Code\SkillsW1Code\obj\Debug\net6.0\SkillsW1Code.pdb
+C:\Users\Owen\source\repos\SkillsW1Code\SkillsW1Code\obj\Debug\net6.0\SkillsW1Code.genruntimeconfig.cache
+C:\Users\Owen\source\repos\SkillsW1Code\SkillsW1Code\obj\Debug\net6.0\ref\SkillsW1Code.dll
